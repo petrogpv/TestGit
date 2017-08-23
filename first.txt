@@ -1,4 +1,3 @@
-second line
 forth line
 fifth line
 sixth line
