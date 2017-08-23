@@ -1,7 +1,5 @@
 testing 
 second line
-<<<<<<< HEAD
-forth line
-=======
 third line
->>>>>>> 53c154ccd4baed9ccc412563b373e8f1789a1ea3
+forth line
+
